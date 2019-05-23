@@ -5,7 +5,7 @@
  * Date: 2019/5/23
  * Time: 18:08
  */
-namespace Getsign;
+namespace GitSign;
 
 class TestPack
 {
