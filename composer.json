@@ -1,0 +1,20 @@
+{
+    "name": "newshelen/testpackages",
+    "description": "this is test package",
+    "type": "library",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "authors": [
+        {
+            "name": "hanxinlong",
+            "email": "1624495727@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "GetSign\\": "src/"
+        }
+    }
+}
