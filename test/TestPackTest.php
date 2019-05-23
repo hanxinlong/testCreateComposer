@@ -12,6 +12,3 @@ use Getsign\TestPack;
 $testobj = new TestPack([0=>'测试数据']);
 
 print_r($testobj);
-
-
-111
